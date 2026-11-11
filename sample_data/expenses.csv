@@ -1,0 +1,350 @@
+Date,Supplier,Description,Amount,Currency,Employee,CostCentre
+2025-11-03,CANVA* PRO,Canva Pro subscription,11.99,EUR,sara.vidal@proseware.example,CC-220
+2025-11-09,CANVA* PRO,Canva Pro subscription,11.99,EUR,matteo.romero@proseware.example,CC-220
+2025-11-16,CANVA* PRO,Canva Pro subscription,11.99,EUR,chiara.martins@proseware.example,CC-220
+2025-11-17,Packlink,Courier,20.08,EUR,carmen.moreau2@proseware.example,CC-420
+2025-11-19,El Corte Ingles,Gift for event,50.68,EUR,marco.ortega2@proseware.example,CC-310
+2025-11-19,Renfe Viajeros,Train ticket,54.31,EUR,chloe.torres@proseware.example,CC-210
+2025-11-21,SNCF Connect,Train ticket,106.01,EUR,joao.silva@proseware.example,CC-310
+2025-11-22,Uber BV,Taxi to client,33.13,EUR,ruben.garcia3@proseware.example,CC-310
+2025-11-24,Eventbrite,Conference ticket,301.45,EUR,hugo.costa@proseware.example,CC-210
+2025-11-26,CANVA* PRO,Canva Pro subscription,11.99,EUR,louis.castro@proseware.example,CC-220
+2025-11-28,Renfe Viajeros,Train ticket,47.42,EUR,giulia.costa@proseware.example,CC-210
+2025-11-28,Restaurante La Plaza,Client lunch,85.30,EUR,sofia.molina@proseware.example,CC-230
+2025-12-02,Packlink,Courier,38.30,EUR,sofia.cabrera2@proseware.example,CC-900
+2025-12-02,Restaurante La Plaza,Client lunch,143.13,EUR,andres.prieto3@proseware.example,CC-410
+2025-12-02,Restaurante La Plaza,Client lunch,45.28,EUR,matteo.sanchez@proseware.example,CC-210
+2025-12-02,Uber BV,Taxi to client,39.12,EUR,beatriz.greco3@proseware.example,CC-900
+2025-12-03,Renfe Viajeros,Train ticket,130.18,EUR,camille.greco3@proseware.example,CC-310
+2025-12-05,Packlink,Courier,9.83,EUR,giulia.gallo@proseware.example,CC-220
+2025-12-05,Restaurante La Plaza,Client lunch,109.01,EUR,ruben.costa@proseware.example,CC-410
+2025-12-08,Fnac,Adapter and cables,34.79,EUR,sara.mendez@proseware.example,CC-310
+2025-12-09,Uber BV,Taxi to client,17.77,EUR,ruben.rossi@proseware.example,CC-220
+2025-12-10,Eventbrite,Conference ticket,317.79,EUR,chiara.romero@proseware.example,CC-410
+2025-12-10,Taxi Lisboa,Taxi,19.04,EUR,ana.garcia2@proseware.example,CC-410
+2025-12-11,Packlink,Courier,37.40,EUR,andres.pereira@proseware.example,CC-310
+2025-12-12,Amazon EU,Office supplies,90.01,EUR,carmen.bianchi@proseware.example,CC-310
+2025-12-13,Hotel NH,"Hotel, sales visit",172.14,EUR,ines.moreau2@proseware.example,CC-520
+2025-12-13,Restaurante La Plaza,Client lunch,68.89,EUR,luis.rossi2@proseware.example,CC-420
+2025-12-14,Eventbrite,Conference ticket,443.62,EUR,sofia.navarro@proseware.example,CC-410
+2025-12-16,CANVA* PRO,Canva Pro subscription,11.99,EUR,louis.castro@proseware.example,CC-220
+2025-12-16,Eventbrite,Conference ticket,211.40,EUR,irene.gallo@proseware.example,CC-220
+2025-12-17,CANVA* PRO,Canva Pro subscription,11.99,EUR,sara.vidal@proseware.example,CC-220
+2025-12-18,Fnac,Adapter and cables,28.41,EUR,noelia.ricci@proseware.example,CC-210
+2025-12-20,Amazon EU,Office supplies,102.60,EUR,lucia.prieto2@proseware.example,CC-310
+2025-12-21,CANVA* PRO,Canva Pro subscription,11.99,EUR,matteo.romero@proseware.example,CC-220
+2025-12-23,Packlink,Courier,28.29,EUR,oscar.fuentes@proseware.example,CC-410
+2025-12-26,CANVA* PRO,Canva Pro subscription,11.99,EUR,chiara.martins@proseware.example,CC-220
+2025-12-26,Taxi Lisboa,Taxi,25.18,EUR,ivan.costa@proseware.example,CC-310
+2025-12-27,Restaurante La Plaza,Client lunch,86.34,EUR,diego.ricci2@proseware.example,CC-410
+2025-12-29,Trenitalia,Train ticket,31.81,EUR,hugo.castro@proseware.example,CC-230
+2025-12-31,El Corte Ingles,Gift for event,62.19,EUR,carmen.castro@proseware.example,CC-210
+2025-12-31,SNCF Connect,Train ticket,76.55,EUR,irene.iglesias@proseware.example,CC-310
+2025-12-31,SNCF Connect,Train ticket,108.91,EUR,louis.laurent2@proseware.example,CC-410
+2026-01-03,Amazon EU,Office supplies,50.64,EUR,luca.lefevre2@proseware.example,CC-310
+2026-01-04,CANVA* PRO,Canva Pro subscription,11.99,EUR,matteo.romero@proseware.example,CC-220
+2026-01-04,SNCF Connect,Train ticket,81.53,EUR,camille.pereira@proseware.example,CC-410
+2026-01-05,Eventbrite,Conference ticket,231.15,EUR,joao.campos@proseware.example,CC-310
+2026-01-05,Uber BV,Taxi to client,38.94,EUR,irene.iglesias@proseware.example,CC-310
+2026-01-06,CANVA* PRO,Canva Pro subscription,11.99,EUR,sara.vidal@proseware.example,CC-220
+2026-01-07,Hotel NH,"Hotel, sales visit",162.28,EUR,lucia.ferreira@proseware.example,CC-310
+2026-01-08,NOTION LABS INC,Notion Plus workspace,9.20,EUR,hugo.ruiz2@proseware.example,CC-410
+2026-01-08,Packlink,Courier,12.55,EUR,joao.herrero2@proseware.example,CC-410
+2026-01-09,NOTION LABS INC,Notion Plus workspace,9.20,EUR,beatriz.rossi3@proseware.example,CC-410
+2026-01-14,Fnac,Adapter and cables,32.24,EUR,marco.costa2@proseware.example,CC-410
+2026-01-16,CANVA* PRO,Canva Pro subscription,11.99,EUR,chiara.martins@proseware.example,CC-220
+2026-01-16,SNCF Connect,Train ticket,55.42,EUR,ivan.delgado@proseware.example,CC-310
+2026-01-17,Amazon EU,Office supplies,45.33,EUR,luca.torres@proseware.example,CC-310
+2026-01-17,CANVA* PRO,Canva Pro subscription,11.99,EUR,louis.castro@proseware.example,CC-220
+2026-01-18,Fnac,Adapter and cables,27.28,EUR,sara.navarro@proseware.example,CC-510
+2026-01-18,Restaurante La Plaza,Client lunch,107.90,EUR,carmen.bianchi2@proseware.example,CC-410
+2026-01-19,El Corte Ingles,Gift for event,60.83,EUR,matteo.prieto@proseware.example,CC-410
+2026-01-19,Restaurante La Plaza,Client lunch,86.54,EUR,ana.prieto@proseware.example,CC-310
+2026-01-21,Fnac,Adapter and cables,27.00,EUR,hugo.ortega3@proseware.example,CC-510
+2026-01-23,El Corte Ingles,Gift for event,30.24,EUR,joao.herrero@proseware.example,CC-210
+2026-01-23,Eventbrite,Conference ticket,275.50,EUR,laura.fuentes@proseware.example,CC-230
+2026-01-23,NOTION LABS INC,Notion Plus workspace,9.20,EUR,sergio.herrero3@proseware.example,CC-410
+2026-01-25,Fnac,Adapter and cables,36.58,EUR,noelia.ricci3@proseware.example,CC-310
+2026-02-02,Packlink,Courier,33.57,EUR,sergio.moreau@proseware.example,CC-510
+2026-02-03,Eventbrite,Conference ticket,103.90,EUR,tiago.ruiz@proseware.example,CC-230
+2026-02-06,Amazon EU,Office supplies,99.07,EUR,elena.romero@proseware.example,CC-230
+2026-02-07,NOTION LABS INC,Notion Plus workspace,9.20,EUR,hugo.ruiz2@proseware.example,CC-410
+2026-02-08,El Corte Ingles,Gift for event,58.11,EUR,adrian.greco3@proseware.example,CC-410
+2026-02-10,CANVA* PRO,Canva Pro subscription,11.99,EUR,matteo.romero@proseware.example,CC-220
+2026-02-10,SNCF Connect,Train ticket,42.35,EUR,chiara.ruiz2@proseware.example,CC-510
+2026-02-12,CANVA* PRO,Canva Pro subscription,11.99,EUR,chiara.martins@proseware.example,CC-220
+2026-02-12,CANVA* PRO,Canva Pro subscription,11.99,EUR,sara.vidal@proseware.example,CC-220
+2026-02-12,Fnac,Adapter and cables,46.74,EUR,sofia.cabrera2@proseware.example,CC-900
+2026-02-12,NOTION LABS INC,Notion Plus workspace,9.20,EUR,sergio.herrero3@proseware.example,CC-410
+2026-02-14,Taxi Lisboa,Taxi,20.22,EUR,adrian.lopez@proseware.example,CC-220
+2026-02-19,Amazon EU,Office supplies,43.19,EUR,camille.garcia3@proseware.example,CC-100
+2026-02-19,Fnac,Adapter and cables,15.46,EUR,ruben.martin@proseware.example,CC-210
+2026-02-21,El Corte Ingles,Gift for event,46.34,EUR,joao.lefevre@proseware.example,CC-310
+2026-02-23,NOTION LABS INC,Notion Plus workspace,9.20,EUR,beatriz.rossi3@proseware.example,CC-410
+2026-02-25,CANVA* PRO,Canva Pro subscription,11.99,EUR,louis.castro@proseware.example,CC-220
+2026-02-27,Packlink,Courier,33.68,EUR,marco.soler3@proseware.example,CC-100
+2026-02-28,Packlink,Courier,37.98,EUR,noelia.romero@proseware.example,CC-220
+2026-02-28,SNCF Connect,Train ticket,54.28,EUR,irene.castro@proseware.example,CC-210
+2026-03-01,El Corte Ingles,Gift for event,66.52,EUR,clara.martin@proseware.example,CC-230
+2026-03-03,El Corte Ingles,Gift for event,66.11,EUR,ana.lopez2@proseware.example,CC-310
+2026-03-03,Taxi Lisboa,Taxi,27.79,EUR,ana.lefevre@proseware.example,CC-210
+2026-03-04,NOTION LABS INC,Notion Plus workspace,9.20,EUR,hugo.ruiz2@proseware.example,CC-410
+2026-03-06,CANVA* PRO,Canva Pro subscription,11.99,EUR,chiara.martins@proseware.example,CC-220
+2026-03-07,NOTION LABS INC,Notion Plus workspace,9.20,EUR,sergio.herrero3@proseware.example,CC-410
+2026-03-08,Amazon EU,Office supplies,89.86,EUR,oscar.cabrera@proseware.example,CC-520
+2026-03-08,CALENDLY,Calendly Standard,9.20,EUR,ana.ruiz@proseware.example,CC-210
+2026-03-08,Taxi Lisboa,Taxi,11.42,EUR,carmen.castro2@proseware.example,CC-230
+2026-03-09,Packlink,Courier,23.51,EUR,matteo.pereira3@proseware.example,CC-410
+2026-03-10,NOTION LABS INC,Notion Plus workspace,9.20,EUR,beatriz.rossi3@proseware.example,CC-410
+2026-03-11,Renfe Viajeros,Train ticket,133.93,EUR,sofia.torres@proseware.example,CC-410
+2026-03-11,Trenitalia,Train ticket,98.05,EUR,marco.soler@proseware.example,CC-210
+2026-03-12,Uber BV,Taxi to client,19.89,EUR,lucia.campos4@proseware.example,CC-310
+2026-03-13,CALENDLY,Calendly Standard,9.20,EUR,luca.laurent@proseware.example,CC-210
+2026-03-13,Uber BV,Taxi to client,13.90,EUR,luis.fuentes@proseware.example,CC-310
+2026-03-15,El Corte Ingles,Gift for event,75.17,EUR,camille.martins@proseware.example,CC-210
+2026-03-15,Restaurante La Plaza,Client lunch,158.71,EUR,ivan.ricci2@proseware.example,CC-410
+2026-03-17,Eventbrite,Conference ticket,435.91,EUR,beatriz.fuentes2@proseware.example,CC-210
+2026-03-18,CANVA* PRO,Canva Pro subscription,11.99,EUR,matteo.romero@proseware.example,CC-220
+2026-03-18,Hotel NH,"Hotel, sales visit",127.23,EUR,chiara.castro2@proseware.example,CC-410
+2026-03-20,CANVA* PRO,Canva Pro subscription,11.99,EUR,louis.castro@proseware.example,CC-220
+2026-03-22,CANVA* PRO,Canva Pro subscription,11.99,EUR,sara.vidal@proseware.example,CC-220
+2026-03-24,Restaurante La Plaza,Client lunch,167.67,EUR,rita.moreau@proseware.example,CC-230
+2026-03-25,Restaurante La Plaza,Client lunch,130.91,EUR,mateo.prieto2@proseware.example,CC-310
+2026-03-26,CALENDLY,Calendly Standard,9.20,EUR,raul.ortega@proseware.example,CC-210
+2026-03-26,Packlink,Courier,30.63,EUR,luca.fuentes@proseware.example,CC-310
+2026-03-29,Amazon EU,Office supplies,112.21,EUR,carmen.iglesias2@proseware.example,CC-310
+2026-03-29,Renfe Viajeros,Train ticket,88.40,EUR,luca.martin@proseware.example,CC-230
+2026-03-29,SNCF Connect,Train ticket,111.63,EUR,joao.iglesias2@proseware.example,CC-510
+2026-03-30,Trenitalia,Train ticket,58.54,EUR,chiara.herrero@proseware.example,CC-210
+2026-04-03,CALENDLY,Calendly Standard,9.20,EUR,luca.laurent@proseware.example,CC-210
+2026-04-03,Trenitalia,Train ticket,97.16,EUR,matteo.soler@proseware.example,CC-210
+2026-04-04,Hotel NH,"Hotel, sales visit",153.47,EUR,sergio.fuentes@proseware.example,CC-530
+2026-04-05,El Corte Ingles,Gift for event,80.74,EUR,louis.moreau@proseware.example,CC-310
+2026-04-06,SNCF Connect,Train ticket,95.55,EUR,noelia.castro@proseware.example,CC-310
+2026-04-07,El Corte Ingles,Gift for event,30.20,EUR,irene.iglesias@proseware.example,CC-310
+2026-04-07,NOTION LABS INC,Notion Plus workspace,9.20,EUR,sergio.herrero3@proseware.example,CC-410
+2026-04-08,CALENDLY,Calendly Standard,9.20,EUR,ana.ruiz@proseware.example,CC-210
+2026-04-08,SNCF Connect,Train ticket,116.87,EUR,chiara.costa@proseware.example,CC-510
+2026-04-09,Eventbrite,Conference ticket,275.32,EUR,luis.moreau2@proseware.example,CC-900
+2026-04-09,Packlink,Courier,38.42,EUR,camille.ortega@proseware.example,CC-230
+2026-04-11,SNCF Connect,Train ticket,149.67,EUR,ines.garcia@proseware.example,CC-310
+2026-04-13,Hotel NH,"Hotel, sales visit",186.10,EUR,matteo.ricci2@proseware.example,CC-420
+2026-04-13,Taxi Lisboa,Taxi,29.55,EUR,adrian.cabrera2@proseware.example,CC-520
+2026-04-14,NOTION LABS INC,Notion Plus workspace,9.20,EUR,beatriz.rossi3@proseware.example,CC-410
+2026-04-14,Restaurante La Plaza,Client lunch,168.24,EUR,sofia.moreau@proseware.example,CC-220
+2026-04-14,SNCF Connect,Train ticket,52.72,EUR,carmen.herrero@proseware.example,CC-410
+2026-04-15,Hotel NH,"Hotel, sales visit",215.46,EUR,elena.navarro2@proseware.example,CC-520
+2026-04-16,Packlink,Courier,9.58,EUR,carmen.bianchi2@proseware.example,CC-410
+2026-04-16,Taxi Lisboa,Taxi,16.32,EUR,hugo.gallo2@proseware.example,CC-310
+2026-04-17,Eventbrite,Conference ticket,313.10,EUR,laura.silva@proseware.example,CC-220
+2026-04-18,Uber BV,Taxi to client,28.94,EUR,hugo.ortega2@proseware.example,CC-410
+2026-04-20,Fnac,Adapter and cables,36.53,EUR,ines.ortega@proseware.example,CC-210
+2026-04-20,NOTION LABS INC,Notion Plus workspace,9.20,EUR,hugo.ruiz2@proseware.example,CC-410
+2026-04-21,CALENDLY,Calendly Standard,9.20,EUR,raul.ortega@proseware.example,CC-210
+2026-04-21,Fnac,Adapter and cables,53.90,EUR,louis.lopez2@proseware.example,CC-210
+2026-04-21,Packlink,Courier,19.25,EUR,ivan.castro@proseware.example,CC-510
+2026-04-23,Fnac,Adapter and cables,39.96,EUR,joao.ferreira@proseware.example,CC-230
+2026-04-24,Eventbrite,Conference ticket,108.61,EUR,camille.garcia@proseware.example,CC-310
+2026-04-25,Taxi Lisboa,Taxi,13.16,EUR,sofia.navarro@proseware.example,CC-410
+2026-04-25,Trenitalia,Train ticket,108.42,EUR,oscar.greco@proseware.example,CC-410
+2026-04-26,El Corte Ingles,Gift for event,47.79,EUR,camille.prieto2@proseware.example,CC-230
+2026-04-29,Fnac,Adapter and cables,16.37,EUR,andres.rossi@proseware.example,CC-210
+2026-04-29,Renfe Viajeros,Train ticket,74.83,EUR,paula.campos@proseware.example,CC-220
+2026-04-29,Uber BV,Taxi to client,25.03,EUR,sofia.navarro@proseware.example,CC-410
+2026-04-30,Restaurante La Plaza,Client lunch,99.49,EUR,paula.pereira@proseware.example,CC-310
+2026-04-30,Uber BV,Taxi to client,43.75,EUR,pablo.delgado3@proseware.example,CC-410
+2026-05-01,El Corte Ingles,Gift for event,78.89,EUR,raul.greco@proseware.example,CC-310
+2026-05-03,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,hugo.lopez3@proseware.example,CC-510
+2026-05-03,El Corte Ingles,Gift for event,47.11,EUR,noelia.lopez2@proseware.example,CC-410
+2026-05-04,CALENDLY,Calendly Standard,9.20,EUR,raul.ortega@proseware.example,CC-210
+2026-05-05,CALENDLY,Calendly Standard,9.20,EUR,luca.laurent@proseware.example,CC-210
+2026-05-06,El Corte Ingles,Gift for event,88.81,EUR,diego.ricci@proseware.example,CC-410
+2026-05-07,NOTION LABS INC,Notion Plus workspace,9.20,EUR,hugo.ruiz2@proseware.example,CC-410
+2026-05-10,Amazon EU,Office supplies,21.88,EUR,ruben.herrero3@proseware.example,CC-220
+2026-05-10,NOTION LABS INC,Notion Plus workspace,9.20,EUR,sergio.herrero3@proseware.example,CC-410
+2026-05-10,Taxi Lisboa,Taxi,12.35,EUR,luis.lopez@proseware.example,CC-230
+2026-05-11,Restaurante La Plaza,Client lunch,93.41,EUR,ivan.prieto@proseware.example,CC-310
+2026-05-12,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,sofia.molina2@proseware.example,CC-510
+2026-05-12,Eventbrite,Conference ticket,235.27,EUR,sara.cabrera@proseware.example,CC-310
+2026-05-13,Restaurante La Plaza,Client lunch,134.35,EUR,joao.laurent@proseware.example,CC-310
+2026-05-14,Renfe Viajeros,Train ticket,81.03,EUR,javier.torres@proseware.example,CC-230
+2026-05-15,NOTION LABS INC,Notion Plus workspace,9.20,EUR,beatriz.rossi3@proseware.example,CC-410
+2026-05-16,Amazon EU,Office supplies,43.82,EUR,diego.molina@proseware.example,CC-210
+2026-05-16,Amazon EU,Office supplies,67.56,EUR,marco.costa@proseware.example,CC-310
+2026-05-17,El Corte Ingles,Gift for event,89.85,EUR,louis.molina2@proseware.example,CC-410
+2026-05-18,Amazon EU,Office supplies,66.80,EUR,hugo.pereira@proseware.example,CC-410
+2026-05-21,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,sara.laurent@proseware.example,CC-510
+2026-05-21,Hotel NH,"Hotel, sales visit",218.28,EUR,javier.sanchez2@proseware.example,CC-520
+2026-05-24,Renfe Viajeros,Train ticket,41.36,EUR,sara.moreau@proseware.example,CC-310
+2026-05-25,CALENDLY,Calendly Standard,9.20,EUR,ana.ruiz@proseware.example,CC-210
+2026-05-26,Amazon EU,Office supplies,74.37,EUR,mateo.greco@proseware.example,CC-230
+2026-05-26,Trenitalia,Train ticket,84.66,EUR,hugo.gallo@proseware.example,CC-210
+2026-05-29,Restaurante La Plaza,Client lunch,166.32,EUR,hugo.romero@proseware.example,CC-210
+2026-05-29,Restaurante La Plaza,Client lunch,90.96,EUR,louis.moreau2@proseware.example,CC-310
+2026-05-29,Trenitalia,Train ticket,98.73,EUR,joao.ruiz@proseware.example,CC-310
+2026-05-31,Packlink,Courier,35.65,EUR,raul.rossi2@proseware.example,CC-310
+2026-06-01,Fnac,Adapter and cables,20.69,EUR,sergio.herrero@proseware.example,CC-230
+2026-06-02,Amazon EU,Office supplies,70.64,EUR,javier.delgado3@proseware.example,CC-310
+2026-06-04,Uber BV,Taxi to client,27.61,EUR,irene.costa@proseware.example,CC-230
+2026-06-04,Zoom Video Communications,Zoom Workplace annual,30000.00,EUR,,CC-900
+2026-06-07,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,hugo.lopez3@proseware.example,CC-510
+2026-06-07,Renfe Viajeros,Train ticket,120.21,EUR,tiago.dubois@proseware.example,CC-210
+2026-06-08,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,camille.dubois@proseware.example,CC-520
+2026-06-08,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,marta.mendez@proseware.example,CC-900
+2026-06-08,Packlink,Courier,10.12,EUR,laura.martins@proseware.example,CC-310
+2026-06-08,SNCF Connect,Train ticket,95.21,EUR,sofia.romero3@proseware.example,CC-220
+2026-06-09,Fnac,Adapter and cables,39.05,EUR,sofia.martins@proseware.example,CC-410
+2026-06-10,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,nuria.moreau@proseware.example,CC-220
+2026-06-11,Trenitalia,Train ticket,65.42,EUR,ruben.prieto@proseware.example,CC-310
+2026-06-15,Eventbrite,Conference ticket,137.28,EUR,marta.ricci2@proseware.example,CC-410
+2026-06-15,Eventbrite,Conference ticket,330.56,EUR,noelia.ricci@proseware.example,CC-210
+2026-06-17,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,sofia.molina2@proseware.example,CC-510
+2026-06-18,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,raul.rossi@proseware.example,CC-310
+2026-06-19,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,sara.laurent@proseware.example,CC-510
+2026-06-19,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,sergio.ricci3@proseware.example,CC-410
+2026-06-19,Trenitalia,Train ticket,81.78,EUR,chloe.martins2@proseware.example,CC-310
+2026-06-19,Trenitalia,Train ticket,83.34,EUR,marco.ricci2@proseware.example,CC-520
+2026-06-21,Fnac,Adapter and cables,40.22,EUR,andres.bianchi@proseware.example,CC-310
+2026-06-23,Eventbrite,Conference ticket,345.30,EUR,hugo.mendez2@proseware.example,CC-230
+2026-06-23,Restaurante La Plaza,Client lunch,95.72,EUR,chiara.delgado@proseware.example,CC-220
+2026-06-24,Packlink,Courier,37.85,EUR,paula.lopez@proseware.example,CC-510
+2026-06-26,SNCF Connect,Train ticket,110.08,EUR,ivan.rossi2@proseware.example,CC-220
+2026-06-27,Renfe Viajeros,Train ticket,117.73,EUR,diego.molina4@proseware.example,CC-410
+2026-06-27,Renfe Viajeros,Train ticket,66.71,EUR,hugo.costa@proseware.example,CC-210
+2026-07-01,Amazon EU,Office supplies,95.54,EUR,adrian.fuentes2@proseware.example,CC-310
+2026-07-02,Renfe Viajeros,Train ticket,96.59,EUR,oscar.rossi@proseware.example,CC-230
+2026-07-03,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,camille.dubois@proseware.example,CC-520
+2026-07-04,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,sofia.molina2@proseware.example,CC-510
+2026-07-04,Restaurante La Plaza,Client lunch,118.89,EUR,mateo.ferreira@proseware.example,CC-310
+2026-07-07,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,hugo.lopez3@proseware.example,CC-510
+2026-07-07,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,marta.mendez@proseware.example,CC-900
+2026-07-12,Amazon EU,Office supplies,115.34,EUR,beatriz.iglesias2@proseware.example,CC-230
+2026-07-14,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,sara.laurent@proseware.example,CC-510
+2026-07-15,El Corte Ingles,Gift for event,78.93,EUR,javier.cabrera@proseware.example,CC-220
+2026-07-16,El Corte Ingles,Gift for event,41.52,EUR,joao.ferreira@proseware.example,CC-230
+2026-07-18,Amazon EU,Office supplies,81.72,EUR,marco.costa2@proseware.example,CC-410
+2026-07-19,Restaurante La Plaza,Client lunch,123.99,EUR,luis.moreau@proseware.example,CC-410
+2026-07-19,Taxi Lisboa,Taxi,10.50,EUR,tiago.sanchez@proseware.example,CC-310
+2026-07-20,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,sergio.ricci3@proseware.example,CC-410
+2026-07-22,Fnac,Adapter and cables,55.71,EUR,nuria.lopez@proseware.example,CC-310
+2026-07-23,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,nuria.moreau@proseware.example,CC-220
+2026-07-25,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,raul.rossi@proseware.example,CC-310
+2026-07-25,Renfe Viajeros,Train ticket,106.12,EUR,joao.laurent@proseware.example,CC-310
+2026-07-25,Renfe Viajeros,Train ticket,49.04,EUR,lucia.fuentes@proseware.example,CC-310
+2026-07-26,Uber BV,Taxi to client,15.20,EUR,irene.molina@proseware.example,CC-230
+2026-07-27,Eventbrite,Conference ticket,190.71,EUR,adrian.gallo2@proseware.example,CC-900
+2026-07-28,Renfe Viajeros,Train ticket,138.99,EUR,raul.garcia@proseware.example,CC-210
+2026-07-29,SNCF Connect,Train ticket,51.54,EUR,mateo.moreau@proseware.example,CC-310
+2026-08-01,Trenitalia,Train ticket,35.83,EUR,ana.castro2@proseware.example,CC-410
+2026-08-03,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,sofia.molina2@proseware.example,CC-510
+2026-08-03,Atlassian Pty Ltd,Jira and Confluence cloud annual,45700.00,EUR,,CC-900
+2026-08-03,Hotel NH,"Hotel, sales visit",163.57,EUR,nuria.lefevre2@proseware.example,CC-210
+2026-08-05,Fnac,Adapter and cables,44.29,EUR,oscar.gallo@proseware.example,CC-310
+2026-08-06,Trenitalia,Train ticket,55.13,EUR,beatriz.ortega@proseware.example,CC-220
+2026-08-08,Eventbrite,Conference ticket,239.31,EUR,raul.sanchez2@proseware.example,CC-520
+2026-08-08,Renfe Viajeros,Train ticket,36.61,EUR,hugo.iglesias2@proseware.example,CC-310
+2026-08-08,Taxi Lisboa,Taxi,15.04,EUR,chiara.garcia@proseware.example,CC-310
+2026-08-09,Eventbrite,Conference ticket,102.47,EUR,giulia.soler@proseware.example,CC-900
+2026-08-09,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,raul.rossi@proseware.example,CC-310
+2026-08-10,SNCF Connect,Train ticket,60.45,EUR,rita.mendez2@proseware.example,CC-310
+2026-08-11,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,hugo.lopez3@proseware.example,CC-510
+2026-08-11,Packlink,Courier,29.79,EUR,oscar.costa2@proseware.example,CC-230
+2026-08-12,Hotel NH,"Hotel, sales visit",167.75,EUR,rita.lopez@proseware.example,CC-310
+2026-08-12,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,marta.mendez@proseware.example,CC-900
+2026-08-12,Packlink,Courier,11.45,EUR,oscar.lefevre@proseware.example,CC-210
+2026-08-13,Amazon EU,Office supplies,49.12,EUR,carmen.moreau@proseware.example,CC-310
+2026-08-13,Amazon EU,Office supplies,88.97,EUR,chloe.torres4@proseware.example,CC-410
+2026-08-15,El Corte Ingles,Gift for event,71.49,EUR,beatriz.campos@proseware.example,CC-210
+2026-08-15,Packlink,Courier,28.24,EUR,laura.fuentes@proseware.example,CC-230
+2026-08-15,Packlink,Courier,26.82,EUR,matteo.fuentes2@proseware.example,CC-310
+2026-08-15,Restaurante La Plaza,Client lunch,175.74,EUR,paula.vidal@proseware.example,CC-510
+2026-08-15,SNCF Connect,Train ticket,60.21,EUR,laura.lefevre2@proseware.example,CC-410
+2026-08-16,Amazon EU,Office supplies,29.79,EUR,clara.garcia@proseware.example,CC-210
+2026-08-17,Hotel NH,"Hotel, sales visit",134.70,EUR,luis.campos@proseware.example,CC-410
+2026-08-18,Fnac,Adapter and cables,21.71,EUR,louis.martins@proseware.example,CC-310
+2026-08-18,Packlink,Courier,27.40,EUR,beatriz.fuentes2@proseware.example,CC-210
+2026-08-18,Trenitalia,Train ticket,61.93,EUR,elena.bianchi2@proseware.example,CC-310
+2026-08-19,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,camille.dubois@proseware.example,CC-520
+2026-08-22,Hotel NH,"Hotel, sales visit",213.32,EUR,irene.sanchez@proseware.example,CC-210
+2026-08-23,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,sergio.ricci3@proseware.example,CC-410
+2026-08-24,Eventbrite,Conference ticket,316.10,EUR,lucia.soler@proseware.example,CC-310
+2026-08-25,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,sara.laurent@proseware.example,CC-510
+2026-08-25,El Corte Ingles,Gift for event,39.99,EUR,matteo.herrero@proseware.example,CC-420
+2026-08-25,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,nuria.moreau@proseware.example,CC-220
+2026-08-26,Amazon EU,Office supplies,20.00,EUR,marco.delgado@proseware.example,CC-310
+2026-08-26,Eventbrite,Conference ticket,407.58,EUR,matteo.fuentes3@proseware.example,CC-530
+2026-08-28,Hotel NH,"Hotel, sales visit",101.66,EUR,mateo.silva@proseware.example,CC-220
+2026-08-30,Restaurante La Plaza,Client lunch,73.19,EUR,noelia.castro2@proseware.example,CC-310
+2026-09-03,Eventbrite,Conference ticket,215.86,EUR,laura.campos@proseware.example,CC-210
+2026-09-04,Trenitalia,Train ticket,102.93,EUR,joao.torres@proseware.example,CC-520
+2026-09-05,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,sofia.molina2@proseware.example,CC-510
+2026-09-05,El Corte Ingles,Gift for event,81.71,EUR,mateo.castro2@proseware.example,CC-410
+2026-09-05,Renfe Viajeros,Train ticket,117.65,EUR,chloe.soler2@proseware.example,CC-230
+2026-09-06,Packlink,Courier,32.55,EUR,laura.moreau@proseware.example,CC-230
+2026-09-06,SNCF Connect,Train ticket,113.90,EUR,adrian.rossi3@proseware.example,CC-230
+2026-09-08,Hotel NH,"Hotel, sales visit",231.03,EUR,marta.martins@proseware.example,CC-310
+2026-09-09,GRAMMARLY INC,Grammarly Pro annual,132.00,EUR,javier.moreau2@proseware.example,CC-420
+2026-09-10,Fnac,Adapter and cables,18.24,EUR,irene.rossi@proseware.example,CC-900
+2026-09-10,Trenitalia,Train ticket,56.48,EUR,sara.martin@proseware.example,CC-230
+2026-09-11,Trenitalia,Train ticket,53.22,EUR,nuria.romero@proseware.example,CC-310
+2026-09-13,Uber BV,Taxi to client,40.69,EUR,raul.fuentes@proseware.example,CC-230
+2026-09-16,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,hugo.lopez3@proseware.example,CC-510
+2026-09-17,Packlink,Courier,9.82,EUR,chloe.soler2@proseware.example,CC-230
+2026-09-18,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,marta.mendez@proseware.example,CC-900
+2026-09-21,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,sergio.ricci3@proseware.example,CC-410
+2026-09-21,Taxi Lisboa,Taxi,12.50,EUR,raul.bianchi@proseware.example,CC-230
+2026-09-22,Renfe Viajeros,Train ticket,83.30,EUR,raul.rossi2@proseware.example,CC-310
+2026-09-23,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,camille.dubois@proseware.example,CC-520
+2026-09-23,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,raul.rossi@proseware.example,CC-310
+2026-09-23,SNCF Connect,Train ticket,56.97,EUR,adrian.pereira@proseware.example,CC-210
+2026-09-24,ADOBE SYSTEMS SOFTWARE IRELAND,Acrobat Pro monthly plan,24.99,EUR,sara.laurent@proseware.example,CC-510
+2026-09-24,El Corte Ingles,Gift for event,64.35,EUR,giulia.pereira@proseware.example,CC-230
+2026-09-25,GRAMMARLY INC,Grammarly Pro annual,132.00,EUR,pablo.delgado3@proseware.example,CC-410
+2026-09-25,Trenitalia,Train ticket,47.26,EUR,joao.silva@proseware.example,CC-310
+2026-09-26,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,nuria.moreau@proseware.example,CC-220
+2026-09-26,Taxi Lisboa,Taxi,21.40,EUR,matteo.pereira2@proseware.example,CC-310
+2026-09-28,Taxi Lisboa,Taxi,21.77,EUR,marco.cabrera@proseware.example,CC-230
+2026-09-29,SNCF Connect,Train ticket,124.90,EUR,ivan.herrero@proseware.example,CC-410
+2026-10-01,Eventbrite,Conference ticket,391.38,EUR,sofia.cabrera@proseware.example,CC-410
+2026-10-01,Uber BV,Taxi to client,31.46,EUR,andres.gallo3@proseware.example,CC-420
+2026-10-02,DocuSign Inc,Annual subscription eSignature,28800.00,EUR,,CC-900
+2026-10-02,Fnac,Adapter and cables,53.81,EUR,carmen.campos@proseware.example,CC-230
+2026-10-03,Fnac,Adapter and cables,25.07,EUR,paula.martin2@proseware.example,CC-310
+2026-10-03,Renfe Viajeros,Train ticket,115.51,EUR,carmen.herrero2@proseware.example,CC-900
+2026-10-08,El Corte Ingles,Gift for event,34.39,EUR,matteo.molina@proseware.example,CC-410
+2026-10-08,Fnac,Adapter and cables,39.95,EUR,rita.castro@proseware.example,CC-210
+2026-10-08,Packlink,Courier,21.71,EUR,luca.pereira@proseware.example,CC-210
+2026-10-10,Taxi Lisboa,Taxi,15.12,EUR,raul.castro@proseware.example,CC-420
+2026-10-11,Restaurante La Plaza,Client lunch,79.01,EUR,joao.laurent@proseware.example,CC-310
+2026-10-12,Taxi Lisboa,Taxi,22.54,EUR,javier.sanchez@proseware.example,CC-310
+2026-10-13,Packlink,Courier,20.66,EUR,louis.ortega@proseware.example,CC-210
+2026-10-14,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,camille.dubois@proseware.example,CC-520
+2026-10-15,El Corte Ingles,Gift for event,33.67,EUR,andres.herrero@proseware.example,CC-310
+2026-10-16,Amazon EU,Office supplies,19.39,EUR,nuria.laurent@proseware.example,CC-310
+2026-10-16,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,marta.mendez@proseware.example,CC-900
+2026-10-16,Trenitalia,Train ticket,28.41,EUR,luca.lopez@proseware.example,CC-230
+2026-10-16,Uber BV,Taxi to client,24.00,EUR,luca.pereira2@proseware.example,CC-220
+2026-10-21,Fnac,Adapter and cables,26.50,EUR,hugo.soler@proseware.example,CC-230
+2026-10-22,SNCF Connect,Train ticket,43.86,EUR,carmen.laurent@proseware.example,CC-210
+2026-10-23,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,raul.rossi@proseware.example,CC-310
+2026-10-23,Restaurante La Plaza,Client lunch,155.85,EUR,noelia.romero@proseware.example,CC-220
+2026-10-24,Eventbrite,Conference ticket,377.01,EUR,luis.silva@proseware.example,CC-530
+2026-10-24,Fnac,Adapter and cables,48.55,EUR,joao.herrero2@proseware.example,CC-410
+2026-10-25,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,nuria.moreau@proseware.example,CC-220
+2026-10-25,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,18.50,EUR,sergio.ricci3@proseware.example,CC-410
+2026-10-26,Eventbrite,Conference ticket,200.97,EUR,andres.iglesias2@proseware.example,CC-410
+2026-10-26,Renfe Viajeros,Train ticket,64.52,EUR,noelia.vidal@proseware.example,CC-230
+2026-10-27,Amazon EU,Office supplies,35.38,EUR,giulia.fuentes2@proseware.example,CC-230
+2026-10-27,Fnac,Adapter and cables,45.68,EUR,joao.fuentes@proseware.example,CC-310
+2026-10-27,Renfe Viajeros,Train ticket,85.19,EUR,diego.ortega3@proseware.example,CC-420
+2026-10-29,Eventbrite,Conference ticket,370.18,EUR,louis.delgado@proseware.example,CC-900
+2026-10-30,Uber BV,Taxi to client,17.27,EUR,sergio.vidal3@proseware.example,CC-230
+2026-11-05,Hotel NH,"Hotel, sales visit",127.33,EUR,matteo.gallo@proseware.example,CC-220
+2026-11-05,Taxi Lisboa,Taxi,28.83,EUR,ivan.delgado@proseware.example,CC-310
+2026-11-06,Renfe Viajeros,Train ticket,65.74,EUR,chloe.delgado@proseware.example,CC-410
+2026-11-06,SNCF Connect,Train ticket,73.16,EUR,elena.martins4@proseware.example,CC-510
+2026-11-08,Hotel NH,"Hotel, sales visit",201.36,EUR,chloe.lefevre@proseware.example,CC-230
+2026-11-09,Restaurante La Plaza,Client lunch,110.15,EUR,matteo.mendez@proseware.example,CC-310
+2026-11-09,Trenitalia,Train ticket,84.65,EUR,marta.ricci2@proseware.example,CC-410
+2026-11-10,Fnac,Adapter and cables,54.13,EUR,chiara.iglesias@proseware.example,CC-510
+2026-11-10,Restaurante La Plaza,Client lunch,157.49,EUR,noelia.prieto@proseware.example,CC-210

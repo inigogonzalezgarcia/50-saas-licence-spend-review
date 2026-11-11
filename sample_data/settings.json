@@ -1,0 +1,90 @@
+{
+  "organisation": "Proseware Group",
+  "as_of": "2026-11-11 09:00",
+  "currency": "EUR",
+  "fx": {
+    "USD": 0.92,
+    "GBP": 1.17
+  },
+  "inactive_days": {
+    "warning": 30,
+    "reclaim": 60
+  },
+  "inactive_share_red_pct": 20,
+  "never_used_grace_days": 30,
+  "shelfware_pct": {
+    "amber": 5,
+    "red": 15
+  },
+  "renewal_horizon_days": 120,
+  "notice_warning_days": {
+    "amber": 45,
+    "red": 14
+  },
+  "uplift_threshold_pct": 5,
+  "calendar_months": 12,
+  "budget_red_pct": 10,
+  "budgets": {
+    "total": 1500000,
+    "CRM": 160000,
+    "Video meetings": 45000,
+    "Creative suite": 65000
+  },
+  "cost_centres": [
+    "CC-100",
+    "CC-210",
+    "CC-220",
+    "CC-230",
+    "CC-310",
+    "CC-410",
+    "CC-420",
+    "CC-510",
+    "CC-520",
+    "CC-530",
+    "CC-900"
+  ],
+  "suite_capabilities": {
+    "Microsoft 365": [
+      "Video meetings",
+      "File sharing"
+    ]
+  },
+  "saas_vendors": {
+    "canva": "Canva",
+    "notion": "Notion",
+    "openai": "ChatGPT Plus",
+    "chatgpt": "ChatGPT Plus",
+    "calendly": "Calendly",
+    "grammarly": "Grammarly",
+    "surveymonkey": "SurveyMonkey",
+    "typeform": "Typeform",
+    "trello": "Trello",
+    "asana": "Asana",
+    "monday com": "monday.com",
+    "airtable": "Airtable",
+    "loom": "Loom",
+    "mailchimp": "Mailchimp",
+    "wetransfer": "WeTransfer",
+    "lucid": "Lucid"
+  },
+  "expense_months": 12,
+  "confidential_classes": [
+    "Confidential",
+    "Restricted"
+  ],
+  "action_days": {
+    "red": 5,
+    "amber": 15
+  },
+  "owners": {
+    "reclaim": "Service desk lead (Nuria Campos)",
+    "downgrade": "Microsoft 365 administrator (Adrián Prieto)",
+    "right-size": "Software asset manager (Clara Fuentes)",
+    "negotiate": "IT procurement (Óscar Méndez)",
+    "consolidate": "Head of IT (Irene Vidal)",
+    "cancel": "IT finance (Beatriz Soler)",
+    "security": "IT security (Rubén Ortega)",
+    "finance": "IT finance (Beatriz Soler)",
+    "sam": "Software asset manager (Clara Fuentes)"
+  }
+}
